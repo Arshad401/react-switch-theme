@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-swith-theme/static/css/main.b57e7bb6.css",
+    "main.js": "/react-swith-theme/static/js/main.48e7ffdb.js",
+    "static/js/787.974991bd.chunk.js": "/react-swith-theme/static/js/787.974991bd.chunk.js",
+    "index.html": "/react-swith-theme/index.html",
+    "main.b57e7bb6.css.map": "/react-swith-theme/static/css/main.b57e7bb6.css.map",
+    "main.48e7ffdb.js.map": "/react-swith-theme/static/js/main.48e7ffdb.js.map",
+    "787.974991bd.chunk.js.map": "/react-swith-theme/static/js/787.974991bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b57e7bb6.css",
+    "static/js/main.48e7ffdb.js"
+  ]
+}
